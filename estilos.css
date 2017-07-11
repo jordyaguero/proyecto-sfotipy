@@ -16,4 +16,7 @@ body {
     list-style: none;
     background: peru;
     color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
